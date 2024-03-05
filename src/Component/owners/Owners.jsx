@@ -29,6 +29,22 @@ const Owners = () => {
          <SwiperSlide>
             <div className='ownerdetails'>
             <div className='ownerdetails33'>
+            <p>“Marketing Manager M. Jalaludin Mohammed Akbar, Vetri Fine Arts has grown from strength to strength, establishing itself as a global leader in printing services”</p>
+            <div className='ownerdetails1'>
+                <div className='ownerimg'>
+                    <img src={ownerimage1} alt="" />
+                </div>
+                <div className='ownername'>
+                    <h1>M.Jalaludin Mohammed Akbar</h1>
+                    <h4>Marketing Manager</h4>
+                </div>
+            </div>
+            </div>
+            </div>
+            </SwiperSlide>
+         <SwiperSlide>
+            <div className='ownerdetails'>
+            <div className='ownerdetails33'>
             <p>“Vetri Fine Arts was founded in 1991 by S.M. Mohamed Farooq, a visionary entrepreneur with a passion for printing excellence”</p>
             <div className='ownerdetails1'>
                 <div className='ownerimg'>
@@ -58,22 +74,7 @@ const Owners = () => {
             </div>
             </div>
             </SwiperSlide>
-            <SwiperSlide>
-            <div className='ownerdetails'>
-            <div className='ownerdetails33'>
-            <p>“Marketing Manager M. Jalaludin Mohammed Akbar, Vetri Fine Arts has grown from strength to strength, establishing itself as a global leader in printing services”</p>
-            <div className='ownerdetails1'>
-                <div className='ownerimg'>
-                    <img src={ownerimage1} alt="" />
-                </div>
-                <div className='ownername'>
-                    <h1>M.Jalaludin Mohammed Akbar</h1>
-                    <h4>Marketing Manager</h4>
-                </div>
-            </div>
-            </div>
-            </div>
-            </SwiperSlide>
+           
             
            
             
